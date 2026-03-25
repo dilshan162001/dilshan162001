@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tharusha Dilshan</h1>
 <h3 align="center">I am pursuing my undergraduate degree in Kothalawala Defence University</h3>
 
+<img align="right" height="150" src="https://imgflip.com/gif/anke9a.gif"  />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan162001&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan162001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshan162001" alt="dilshan162001" /></a> </p>
@@ -12,8 +14,9 @@
 - 🤝 I’m looking for help with **DevOps, UI/UX**
 
 - 📫 How to reach me **dtharusha888@gmail.com**
+
   
-<img align="right" height="150" src="https://imgflip.com/gif/anke9a.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/anke9a.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
