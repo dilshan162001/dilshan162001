@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dtharusha888@gmail.com**
   
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://imgflip.com/gif/anke9a.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
